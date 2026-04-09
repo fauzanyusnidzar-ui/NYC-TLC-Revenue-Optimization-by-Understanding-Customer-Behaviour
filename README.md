@@ -27,13 +27,19 @@ Others: Jupyter Notebook
 Plaintext
 
 ├── README.md          <- Ringkasan proyek dan temuan utama.
+
 ├── data
 │   ├── raw            <- Dataset asli dari NYC TLC Januari 2023.
-│   └── cleaned        <- Data yang telah dibersihkan (menghapus outlier, data kosong, & tahun anomali).
+│   └── cleaned  <- Data yang telah dibersihkan (menghapus outlier, data kosong, & tahun anomali).
+
 ├── notebooks          <- Jupyter notebooks berisi proses cleaning, EDA, dan Analisis Diagnostik.
+
 ├── reports            <- Laporan PDF: "Revenue Optimization by Understanding Customer Behaviour".
+
 │   └── figures        <- Heatmap, Barplot, dan Choropleth map.
+
 ├── requirements.txt   <- Daftar library Python yang dibutuhkan.
+
 └── src                <- Script python untuk pengolahan data.
 
 5. Summary of Finding
