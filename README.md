@@ -70,3 +70,8 @@ Fokus utamanya adalah bagaimana pemahaman terhadap pola perilaku customer dapat 
 * **Armada SUV:** Menambah alokasi mobil berkapasitas besar di zona residensial untuk menargetkan segmen keluarga/group.
 
 ---
+
+## 6. Contact
+1. Nama : Fauzan Hanindyawan Yusnidzar
+1. E-Mail : fauzanyusnidzar@gmail.com
+
