@@ -74,4 +74,4 @@ Fokus utamanya adalah bagaimana pemahaman terhadap pola perilaku customer dapat 
 ## 6. Contact
 1. Nama : Fauzan Hanindyawan Yusnidzar
 1. E-Mail : fauzanyusnidzar@gmail.com
-
+1. Presentation Link : https://drive.google.com/drive/folders/1THBLyHYy_BQukpuPveH5yuyxzmEuq2YI?usp=drive_link
